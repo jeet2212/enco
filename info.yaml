@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     354858054593504257       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Enco"      # Project title
+  title:        "Encryption and decryption circuit"      # Project title
   author:       "Jeet"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "encoding and decoding"      # One line description of what your project does
@@ -16,7 +16,7 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
- ui[0]: "Data_in_3"
+  ui[0]: "Data_in_3"
   ui[1]: "Data_in_2"
   ui[2]: "Data_in_1"
   ui[3]: "Data_in_0"
